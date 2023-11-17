@@ -1,3 +1,4 @@
+// 이 코드는 입력한 숫자가 소수인지 판별하는 코드입니다.
 #include<stdio.h>
 
 int main()
